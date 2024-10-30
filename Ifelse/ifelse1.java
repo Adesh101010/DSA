@@ -11,6 +11,7 @@ public class ifelse1 {
         }
         else {
             System.out.println("You cant vote "+ name);
+            
         }
     }
     
